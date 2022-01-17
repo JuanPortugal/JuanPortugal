@@ -2,10 +2,10 @@
 - 🔭 I’m currently working on learn front-end development
 - 🌱 I’m currently learning HTML5/CSS3
 
-<div align="center">
+<div>
   <a href="https://github.com/JuanPortugal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanPortugal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPortugal&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JuanPortugal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPortugal&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

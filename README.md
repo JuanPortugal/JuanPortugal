@@ -1,5 +1,5 @@
 ### Hi there 👋  
-- 🔭 I’m currently working on learn front-end development
+- 🔭 I’m currently working on learn development
 - 🌱 I’m currently learning HTML5/CSS3
 
 <div style="display: inline_block">

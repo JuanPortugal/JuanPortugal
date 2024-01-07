@@ -1,6 +1,6 @@
 ### Hi there 👋  
 - 🔭 I’m currently working on learn development
-- 🌱 I’m currently learning HTML5/CSS3
+- 🌱 I’m currently learning Python
 
 <div style="display: inline_block">
   <a href="https://github.com/JuanPortugal">
